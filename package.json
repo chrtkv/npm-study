@@ -1,0 +1,14 @@
+{
+  "name": "npm-test",
+  "version": "0.0.1",
+  "description": "test project",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "author": "Kirill Chertkov",
+  "license": "ISC",
+  "dependencies": {
+    "lodash": "^4.17.5"
+  }
+}
